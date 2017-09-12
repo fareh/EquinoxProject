@@ -29,6 +29,12 @@ To know more about how to setup your enviroment visit the [Microsoft .NET Downlo
 - MediatR
 - Swagger UI
 
+
+
+
+
+
+
 ## Architecture:
 
 - Full architecture with responsibility separation concerns, SOLID and Clean Code
